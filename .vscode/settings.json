@@ -1,0 +1,8 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "/com.docker.devenvironments.code/.venv/bin/python",
+      "type": "pythonEnvironment"
+    }
+  ]
+}
