@@ -1,7 +1,7 @@
 {
   "jupyter.kernels.filter": [
     {
-      "path": "/com.docker.devenvironments.code/.venv/bin/python",
+      "path": "/com.docker.devenvironments.code/.venv/share/jupyter/kernels/python3",
       "type": "pythonEnvironment"
     }
   ]

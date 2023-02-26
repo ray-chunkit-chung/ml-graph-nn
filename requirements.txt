@@ -1,5 +1,9 @@
 torch
+torch-geometric
+torch-sparse
+torch-scatter
 networkx
 scikit-learn
 ipykernel
 jupyter
+pandas
